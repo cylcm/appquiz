@@ -9,7 +9,7 @@ A free, single‑file, offline‑capable study companion that helps **Singapore 
 ![license](https://img.shields.io/badge/license-MIT-2bb5c4)
 ![single file](https://img.shields.io/badge/single--file-HTML-ff8a3d)
 
----
+----
 
 ## Why this exists
 
