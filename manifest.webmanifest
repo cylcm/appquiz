@@ -1,0 +1,24 @@
+{
+  "name": "Quest PSLE — Smart PSLE Study Buddy",
+  "short_name": "Quest PSLE",
+  "description": "Offline-first PSLE study buddy for Singapore P5–P6: English, Math, Science and Chinese practice with spaced-repetition review, quizzes, oral read-aloud, a study planner, and XP rewards.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait",
+  "background_color": "#f3f7fb",
+  "theme_color": "#2bb5c4",
+  "lang": "en-SG",
+  "dir": "ltr",
+  "categories": ["education", "kids", "productivity"],
+  "shortcuts": [
+    { "name": "Daily Review", "short_name": "Review", "url": "./index.html#home" },
+    { "name": "English", "short_name": "English", "url": "./index.html#english" },
+    { "name": "Math", "short_name": "Math", "url": "./index.html#math" },
+    { "name": "Science", "short_name": "Science", "url": "./index.html#science" },
+    { "name": "华文 Chinese", "short_name": "华文", "url": "./index.html#chinese" }
+  ],
+  "prefer_related_applications": false
+}

@@ -1,0 +1,5 @@
+{
+  "app": "1.0",
+  "content": "2026.06.01",
+  "packs": ["english", "math", "science", "mcq"]
+}
